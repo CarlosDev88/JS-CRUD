@@ -7,7 +7,7 @@ this exercise is use to practices events, browser local storage and use modules 
 
 Runs the app in the development mode.
 install any server, in this case I used 
-[serv](https://www.npmjs.com/package/serve)
+[SERVE](https://www.npmjs.com/package/serve)
 
 Open http://localhost:3000 to view it in the browser.
 
